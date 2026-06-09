@@ -2,7 +2,7 @@
 <img width="4082" height="2721" alt="image" src="https://github.com/user-attachments/assets/80873926-dcd3-43f5-92f2-40d9c2875a92" />
 
 
-Aim
+## Aim
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
 
 
@@ -18,7 +18,7 @@ pandas
 scikit-learn
 Run the "application.py" file And you are good to go.
 
-Description
+## Description
 What this project does?
 This project takes the parameters of an used car like: Company name, Model name, Year of Purchase, Fuel Type and Number of Kilometers it has been driven.
 It then predicts the possible price of the car. For example, the image below shows the predicted price of our Hyundai Grand i10.
