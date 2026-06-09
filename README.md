@@ -22,6 +22,7 @@ Run the "application.py" file And you are good to go.
 What this project does?
 This project takes the parameters of an used car like: Company name, Model name, Year of Purchase, Fuel Type and Number of Kilometers it has been driven.
 It then predicts the possible price of the car. For example, the image below shows the predicted price of our Hyundai Grand i10.
+
 <img width="4082" height="2721" alt="image" src="https://github.com/user-attachments/assets/8e1acc24-b4ca-412f-9e9b-444b458370a8" />
 
 ## Tech Stack
@@ -29,3 +30,7 @@ It then predicts the possible price of the car. For example, the image below sho
 * **Machine Learning:** Scikit-Learn, Pandas, NumPy, Linear Regression
 * **Frontend:** HTML, CSS (Templates included)
 
+## How to use
+1. Clone the repository.
+2. Install the required packages: `pip install flask scikit-learn pandas numpy`
+3. Run `main.py` or `application.py` to start the local server.
